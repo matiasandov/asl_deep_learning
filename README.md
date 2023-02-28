@@ -1,4 +1,4 @@
-# asl_deep_learning
+# ASL Image Classification using Computer Vision
 ASL Image Classification using Computer Vision: Developed a Deep Learning model from scratch, based on Convolutional Networks using Python’s PyTorch libraries, to classify images of letters and numbers of the ASL
 
 • Developed a Deep Learning model from scratch, based on Convolutional Networks using Python’s PyTorch libraries, to classify images of letters and numbers of the ASL, achieving a 96% accuracy score with a memory footprint of 1 GB after 40 epochs
